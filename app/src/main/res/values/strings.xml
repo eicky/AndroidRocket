@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidRocket</string>
+    <string name="service_name">AndroidRocket(推荐开启)</string>
+    <string name="accessibility_service_description">Help android developer get TopActivity name and pakage!</string>
+</resources>
